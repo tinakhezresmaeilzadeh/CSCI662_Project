@@ -2,6 +2,9 @@
 
 ## PoliLean Reposiotry
 
+## Tina Khezresmaeilzadeh
+## Sina Shaham
+
 This is the official repo for reconstruction of [From Pretraining Data to Language Models to Downstream Tasks: Tracking the Trails of Political Biases Leading to Unfair NLP Models](https://arxiv.org/abs/2305.08283) @ ACL 2023.
 
 ### Evaluate the Political Leaning of Language Models by Taking Political Compass Test
