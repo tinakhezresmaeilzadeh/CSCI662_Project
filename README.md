@@ -49,3 +49,9 @@ For partisan news corpora, visit [POLITICS](https://github.com/launchnlp/politic
 ### Downstream Tasks
 Hate speech detection: [link](https://github.com/michaelmilleryoder/hate_speech_identities)
 
+Run 
+
+```
+python3 identity_gpt2.py
+```
+To train the model and save the trained model.
